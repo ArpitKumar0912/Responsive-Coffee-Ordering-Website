@@ -1,1 +1,1 @@
-# Responsive-Coffee-Ordering-Website
+# Responsive-Coffee-Ordering-Website :- Developed a fully responsive coffee ordering website using HTML, CSS, and JavaScript. The website allows users to browse various coffee options, customize their orders, and submit requests for delivery. Implemented interactive features such as dynamic form validation and user input handling to enhance the user experience. The site adapts seamlessly across different devices and screen sizes, ensuring a smooth and accessible user interface for both desktop and mobile users.
